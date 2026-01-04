@@ -5,3 +5,11 @@ langchain-core
 langsmith
 python-dotenv
 ollama
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+chromadb
+faiss-cpu
